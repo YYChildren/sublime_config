@@ -1,0 +1,33 @@
+{
+	// Enable auto-complete.
+    //
+    // When enabled, this turns on a basic "auto-complete" feature, similar to
+    // a very rudimentary "Intellisense(TM)". This is useful for providing
+    // better suggestions than stock Sublime Text could provide.
+    "autocomplete": true,
+
+    // Path to ctags executable.
+    //
+    // Alter this value if your ctags command is not in the PATH, or if using
+    // a different version of ctags to that in the path (i.e. for OSX).
+    //
+    // NOTE: You *should not* place entire commands here. These commands are
+    // built automatically using the values below. For example, this is OK:
+    //
+    //     "command": "/usr/bin/ctags"
+    //
+    // This, on the other hand, won't work!
+    //
+    //     "command": "ctags -R -f .tags --exclude=some/path"
+    //
+    "command": "D:\\Program Files (x86)\\ctags58\\ctags.exe",
+
+    // Additional options to pass to ctags.
+    //
+    // Any addition options you may wish to pass to the ctags executable. For
+    // example:
+    //
+    //     ["--exclude=some/path", "--exclude=some/other/path", ...]
+    "opts" : ["--exclude=.git"],
+
+}

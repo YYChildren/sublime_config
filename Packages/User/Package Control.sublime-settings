@@ -1,0 +1,50 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Apache Hive",
+		"CTags",
+		"Fold Python",
+		"FormatLua",
+		"Function Name Display",
+		"INI",
+		"JavaPropertiesEditor",
+		"JSON Reindent",
+		"JSONLint",
+		"Lua Dev",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownTOC",
+		"Monokai Extended",
+		"Monokai JSON+",
+		"nginx",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Pandoc",
+		"Scala Snippets",
+		"ScalaFormat",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sublime-Erlang",
+		"SublimeHighlight",
+		"SublimeLinter-contrib-erlc",
+		"SublimErl",
+		"SublimeTmpl",
+		"Theme - Monokai",
+		"ThriftSyntax"
+	],
+	"repositories":
+	[
+		"https://github.com/fjl/Sublime-Erlang",
+		"https://github.com/ostinelli/SublimErl",
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
+	]
+}

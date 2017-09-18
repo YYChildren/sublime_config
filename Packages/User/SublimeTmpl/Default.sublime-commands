@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Tmpl: Create erlang", "command": "sublime_tmpl",
+        "args": {"type": "erlang"}
+    }
+]
