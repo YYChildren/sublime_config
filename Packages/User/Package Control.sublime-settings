@@ -23,8 +23,6 @@
 		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownTOC",
-		"Monokai Extended",
-		"Monokai JSON+",
 		"nginx",
 		"OmniMarkupPreviewer",
 		"Package Control",
@@ -38,7 +36,7 @@
 		"SublimeLinter-contrib-erlc",
 		"SublimErl",
 		"SublimeTmpl",
-		"Theme - Monokai",
+		"Theme - Afterglow",
 		"ThriftSyntax"
 	],
 	"repositories":

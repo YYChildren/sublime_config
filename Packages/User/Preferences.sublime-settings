@@ -1,13 +1,13 @@
 {
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended Origin.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "selection",
-	"font_size": 12,
+	"font_size": 14,
 	"format_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Monokai.sublime-theme",
+	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
