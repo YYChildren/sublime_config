@@ -9,14 +9,17 @@
 		".hg",
 		"CVS",
 		"_build",
-		"_book"
+		"_book",
+		"node_modules",
+		"vendor"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"format_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"theme": "Afterglow.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
 }
